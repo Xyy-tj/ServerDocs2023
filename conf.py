@@ -23,14 +23,14 @@ release = version
 
 # --------------------------- General configuration -------------------------- #
 
-extensions = [
-    "sphinx_rtd_theme",
-    "sphinx.ext.autodoc",
-    "sphinx.ext.napoleon",
-    "sphinx.ext.mathjax",
-    "recommonmark",
-    "sphinx_markdown_tables",
-]
+# extensions = [
+#     "sphinx_rtd_theme",
+#     "sphinx.ext.autodoc",
+#     "sphinx.ext.napoleon",
+#     "sphinx.ext.mathjax",
+#     "recommonmark",
+#     "sphinx_markdown_tables",
+# ]
 master_doc = "index"
 exclude_patterns = ["_build"]
 
