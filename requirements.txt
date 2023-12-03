@@ -4,3 +4,4 @@ sphinx-autobuild==2021.3.14
 sphinx-markdown-tables==0.0.15
 sphinx-rtd-theme==0.5.1
 jinja2==2.10.1
+markupsafe==1.1.1
